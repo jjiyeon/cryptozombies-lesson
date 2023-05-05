@@ -1,0 +1,7 @@
+{
+  "name": "cryptozombies-lesson",
+  "version": "1.0.0",
+  "description": "solidty lesson",
+  "main": "index.js",
+  "license": "MIT"
+}
